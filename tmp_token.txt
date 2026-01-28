@@ -1,0 +1,10 @@
+{
+    "message": "Пользователь успешно зарегистрирован",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzLCJlbWFpbCI6ImVkYXNmZ0Bhc2RmYXNmLmdmIiwiaWF0IjoxNzYwMzUwNzc1LCJleHAiOjE3NjA0MzcxNzV9.WRLiujVtjkh0NPltSq53ki44VMNjh6BKfHqCcNqAVNY",
+    "user": {
+        "id": 13,
+        "name": "asfasf",
+        "email": "edasfg@asdfasf.gf",
+        "role": "user"
+    }
+}
